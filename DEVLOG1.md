@@ -5,8 +5,8 @@ I currently only have the OS welcome page.
 ## What I have done
 
 - Added a heading and introduction for IerOS
-- Included a photo of my cats
-- Added a GitHub icon link to the my profile
+- Included a picture of my cats
+- Added a blue GitHub icon link to the my profile
 
 ## Current state
 
